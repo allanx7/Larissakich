@@ -4,11 +4,7 @@
 
 Me chamo allan sant'anna nébias, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no maria gemma, com o curso técnico em adm. Atualmente, estou cursando. Sou apaixonada por tecnologia. Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no 
+
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
