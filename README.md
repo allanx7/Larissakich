@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 allan 
 
 **`Desenvolvedora FullStack`**
 
-Me chamo allan sant'anna nébias, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no maria gemma, com o curso técnico em adm. Atualmente, estou cursando. Sou apaixonada por tecnologia. Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo allan sant'anna nébias, tenho 17 anos e sou natural de ilhabela sp. Concluí o ensino médio no maria gemma, com o curso técnico em adm. Atualmente, estou cursando. Sou apaixonada por tecnologia.
 
 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
