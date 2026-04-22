@@ -1,6 +1,6 @@
 # 👩🏻‍💻 allan 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo allan sant'anna nébias, tenho 17 anos e sou natural de ilhabela sp. Concluí o ensino médio no maria gemma, com o curso técnico em adm. Atualmente, estou cursando. Sou apaixonada por tecnologia.
 
